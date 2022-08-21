@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NodeShop/static/css/main.2a9d092d.css",
+    "main.js": "/NodeShop/static/js/main.b20ff484.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NodeShop/static/js/787.28cb0dcd.chunk.js",
+    "static/media/im4.jpg": "/NodeShop/static/media/im4.3b5a3ddad30171bbceaf.jpg",
+    "static/media/im3.jpg": "/NodeShop/static/media/im3.c017df4966fabb0e51c2.jpg",
+    "static/media/im2.jpg": "/NodeShop/static/media/im2.b2b3d417691ec260abd7.jpg",
+    "static/media/im8.jpg": "/NodeShop/static/media/im8.bfca7e36d31ef41f0e0e.jpg",
+    "static/media/im6.jpg": "/NodeShop/static/media/im6.cc69bea1260d3ab6d60b.jpg",
+    "static/media/LoadingGif.gif": "/NodeShop/static/media/LoadingGif.e9fdb6b46e4f5a6fe4f4.gif",
+    "static/media/im7.jpg": "/NodeShop/static/media/im7.7f6afda45d705da50e23.jpg",
+    "static/media/im1.jpg": "/NodeShop/static/media/im1.f723b1f65148ec31ee45.jpg",
+    "static/media/im5.jpg": "/NodeShop/static/media/im5.3d19bcfe9f5154141e05.jpg",
+    "index.html": "/NodeShop/index.html",
+    "main.2a9d092d.css.map": "/NodeShop/static/css/main.2a9d092d.css.map",
+    "main.b20ff484.js.map": "/NodeShop/static/js/main.b20ff484.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NodeShop/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9d092d.css",
+    "static/js/main.b20ff484.js"
+  ]
+}

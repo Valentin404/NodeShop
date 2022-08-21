@@ -1,0 +1,52 @@
+.footerBottom {
+  position: fixed;
+  bottom: 0;
+  width: calc(100% - 30px);
+  padding: 0;
+
+  .dontLimit {
+    max-width: none;
+  }
+}
+footer {
+  width: 100vw;
+  overflow-x: auto;
+  display: flex;
+  background-color: rgb(242, 242, 242); 
+
+  &::-webkit-scrollbar { 
+    height: 0;
+  }
+  .goods {
+    margin: 0 40px;
+    img {
+      width: 180px;
+      height:140px;
+    }
+    animation-name: wraperScroll;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    // animation-direction: alternate;
+    animation-fill-mode: backwards;
+  }
+  .goods:first-child {
+    padding-left: 110%;
+  }
+  .goods:last-child {
+    padding-right: 100%;
+  }
+
+  
+}
+
+@keyframes wraperScroll {
+    from {
+        transform: translate(0,0);
+    }
+    to {
+        transform: translate(-300vw,0);
+
+    }
+    
+}

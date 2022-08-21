@@ -1,0 +1,18 @@
+.headerBg {
+    background-color: rgb(242, 242, 242); 
+    position: fixed;
+    width: calc(100% - 30px);
+    
+}
+header {
+    padding: 4px 0;
+display: flex;
+justify-content: space-between;
+align-items: center;
+ button {
+    padding: 10px 20px; 
+    border: 2px solid grey;
+    cursor: pointer;
+    font-weight: 800;
+ }
+}
